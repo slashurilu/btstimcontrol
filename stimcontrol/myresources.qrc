@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>blank.png</file>
+        <file>brazil.png</file>
+        <file>restart.png</file>
+        <file>usa.png</file>
+        <file>fundoprograma.png</file>
+        <file>backwhite.png</file>
+        <file>brightness25.png</file>
+        <file>brightness50.png</file>
+        <file>brightness75.png</file>
+        <file>brightness100.png</file>
+    </qresource>
+</RCC>
